@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://side-job-sh.github.io/hall-data/sitemap.xml
